@@ -6,7 +6,6 @@ import java.util.List;
 /**
  * 文本消息
  * 
- * @author liufeng
  * @date 2013-05-19
  */
 public class NewsMessage extends RecBaseMessage {
